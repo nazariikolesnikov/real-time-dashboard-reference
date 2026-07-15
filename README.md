@@ -1,1 +1,4 @@
-# Real-time Dashboard Reference (Data Engineering Project)
+# Real-time Dashboard Reference
+
+<img width="5647" height="3107" alt="Architecture" src="https://github.com/nazariikolesnikov/mugunghwa-blooms-and-roots-datastack/blob/main/architecture/architecture.png" />
+
